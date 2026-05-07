@@ -1,0 +1,15 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<h2 style="color: #ffc857;">📄 Тексты</h2>
+<div style="display: grid; gap: 25px;">
+    {% for text in texts %}
+    <div class="card-modern">
+        <div class="word-title">{{ text.title }}</div>
+        <div>{{ text.content|truncatewords:30 }}</div>
+        <a href="{% url 'language:text_detail' text.id %}" class="btn-flare">Читать →</a>
+    </div>
+    {% empty %}
+        <p>Тексты появятся позже. Добавь через админку.</p>
+    {% endfor %}
+</div>
+{% endblock %}

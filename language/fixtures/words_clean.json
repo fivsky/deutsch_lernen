@@ -1,0 +1,12 @@
+[
+  {"model": "language.word", "pk": 1, "fields": {"german": "Hallo", "russian": "Привет", "part_of_speech": "Interjektion", "example": "Hallo, wie geht es dir?", "level": "A1"}},
+  {"model": "language.word", "pk": 2, "fields": {"german": "Tisch", "russian": "Стол", "part_of_speech": "Substantiv", "example": "Der Tisch ist groß.", "level": "A1"}},
+  {"model": "language.word", "pk": 3, "fields": {"german": "Sonne", "russian": "Солнце", "part_of_speech": "Substantiv", "example": "Die Sonne scheint.", "level": "A1"}},
+  {"model": "language.word", "pk": 4, "fields": {"german": "laufen", "russian": "бегать", "part_of_speech": "Verb", "example": "Ich laufe jeden Morgen.", "level": "A1"}},
+  {"model": "language.word", "pk": 5, "fields": {"german": "schnell", "russian": "быстрый", "part_of_speech": "Adjektiv", "example": "Das Auto ist schnell.", "level": "A1"}},
+  {"model": "language.word", "pk": 6, "fields": {"german": "arbeiten", "russian": "работать", "part_of_speech": "Verb", "example": "Er arbeitet im Büro.", "level": "A1"}},
+  {"model": "language.word", "pk": 7, "fields": {"german": "Buch", "russian": "книга", "part_of_speech": "Substantiv", "example": "Das Buch ist interessant.", "level": "A1"}},
+  {"model": "language.word", "pk": 8, "fields": {"german": "lesen", "russian": "читать", "part_of_speech": "Verb", "example": "Sie liest jeden Tag.", "level": "A1"}},
+  {"model": "language.word", "pk": 9, "fields": {"german": "schön", "russian": "красивый", "part_of_speech": "Adjektiv", "example": "Das Wetter ist schön.", "level": "A1"}},
+  {"model": "language.word", "pk": 10, "fields": {"german": "Stadt", "russian": "город", "part_of_speech": "Substantiv", "example": "Die Stadt ist laut.", "level": "A1"}}
+]

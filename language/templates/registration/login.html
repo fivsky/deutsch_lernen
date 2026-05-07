@@ -1,0 +1,13 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<div class="card-modern" style="max-width: 500px; margin: 0 auto;">
+    <h2 style="color:#ffc857;">🔐 Вход в глянцевый клуб</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit" class="btn-flare">Войти</button>
+    </form>
+    <hr style="border-color:#ffb347; margin:20px 0;">
+    <p>Нет аккаунта? <a href="{% url 'language:register' %}" style="color:#ffb347;">Зарегистрируйся</a></p>
+</div>
+{% endblock %}

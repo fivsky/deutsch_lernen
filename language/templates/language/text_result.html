@@ -1,0 +1,8 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<div class="card-modern" style="text-align:center;">
+    <h2>Результат</h2>
+    <p>Правильно: {{ score }} из {{ total }}</p>
+    <a href="{% url 'language:text_list' %}" class="btn-flare">К списку текстов</a>
+</div>
+{% endblock %}

@@ -1,0 +1,17 @@
+﻿{% extends 'language/base.html' %}
+{% block content %}
+<h2 style="color: #e6b422; margin-bottom: 30px;">📒 Словарь ({{ total_words }} слов)</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 25px;">
+    {% for word in words %}
+    <div class="card">
+        <div class="card-title">{{ word.german }}</div>
+        <div class="card-sub">{{ word.part_of_speech|default:"" }} • {{ word.level|default:"A1" }}</div>
+        <div class="card-text">{{ word.russian }}</div>
+        <div class="card-text"><em>«{{ word.example|default:"—" }}»</em></div>
+        <a href="{% url 'language:trainer' %}?word_id={{ word.id }}" class="btn-metal" style="margin-top: 10px;">Учить →</a>
+    </div>
+    {% empty %}
+        <p>Слова пока не загружены. Админка вам в помощь.</p>
+    {% endfor %}
+</div>
+{% endblock %}

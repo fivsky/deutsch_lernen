@@ -1,0 +1,17 @@
+[
+  {
+    "model": "language.text",
+    "pk": 1,
+    "fields": {
+      "title": "Meine Familie",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder.",
+      "level": "A1",
+      "questions": [
+        {"question": "Wie heißt die Person?", "answer": "Anna"},
+        {"question": "Was arbeitet die Mutter?", "answer": "Ärztin"}
+      ]
+    }
+  }
+]
+
+

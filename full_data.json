@@ -1,0 +1,1752 @@
+[
+  {
+    "model": "language.word",
+    "pk": 1,
+    "fields": {
+      "german": "Wort1",
+      "russian": "Слово1",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 2,
+    "fields": {
+      "german": "Wort2",
+      "russian": "Слово2",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 3,
+    "fields": {
+      "german": "Wort3",
+      "russian": "Слово3",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 4,
+    "fields": {
+      "german": "Wort4",
+      "russian": "Слово4",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 5,
+    "fields": {
+      "german": "Wort5",
+      "russian": "Слово5",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 6,
+    "fields": {
+      "german": "Wort6",
+      "russian": "Слово6",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 7,
+    "fields": {
+      "german": "Wort7",
+      "russian": "Слово7",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 8,
+    "fields": {
+      "german": "Wort8",
+      "russian": "Слово8",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 9,
+    "fields": {
+      "german": "Wort9",
+      "russian": "Слово9",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 10,
+    "fields": {
+      "german": "Wort10",
+      "russian": "Слово10",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 11,
+    "fields": {
+      "german": "Wort11",
+      "russian": "Слово11",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 12,
+    "fields": {
+      "german": "Wort12",
+      "russian": "Слово12",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 13,
+    "fields": {
+      "german": "Wort13",
+      "russian": "Слово13",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 14,
+    "fields": {
+      "german": "Wort14",
+      "russian": "Слово14",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 15,
+    "fields": {
+      "german": "Wort15",
+      "russian": "Слово15",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 16,
+    "fields": {
+      "german": "Wort16",
+      "russian": "Слово16",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 17,
+    "fields": {
+      "german": "Wort17",
+      "russian": "Слово17",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 18,
+    "fields": {
+      "german": "Wort18",
+      "russian": "Слово18",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 19,
+    "fields": {
+      "german": "Wort19",
+      "russian": "Слово19",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 20,
+    "fields": {
+      "german": "Wort20",
+      "russian": "Слово20",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 21,
+    "fields": {
+      "german": "Wort21",
+      "russian": "Слово21",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 22,
+    "fields": {
+      "german": "Wort22",
+      "russian": "Слово22",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 23,
+    "fields": {
+      "german": "Wort23",
+      "russian": "Слово23",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 24,
+    "fields": {
+      "german": "Wort24",
+      "russian": "Слово24",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 25,
+    "fields": {
+      "german": "Wort25",
+      "russian": "Слово25",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 26,
+    "fields": {
+      "german": "Wort26",
+      "russian": "Слово26",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 27,
+    "fields": {
+      "german": "Wort27",
+      "russian": "Слово27",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 28,
+    "fields": {
+      "german": "Wort28",
+      "russian": "Слово28",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 29,
+    "fields": {
+      "german": "Wort29",
+      "russian": "Слово29",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 30,
+    "fields": {
+      "german": "Wort30",
+      "russian": "Слово30",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 31,
+    "fields": {
+      "german": "Wort31",
+      "russian": "Слово31",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 32,
+    "fields": {
+      "german": "Wort32",
+      "russian": "Слово32",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 33,
+    "fields": {
+      "german": "Wort33",
+      "russian": "Слово33",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 34,
+    "fields": {
+      "german": "Wort34",
+      "russian": "Слово34",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 35,
+    "fields": {
+      "german": "Wort35",
+      "russian": "Слово35",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 36,
+    "fields": {
+      "german": "Wort36",
+      "russian": "Слово36",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 37,
+    "fields": {
+      "german": "Wort37",
+      "russian": "Слово37",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 38,
+    "fields": {
+      "german": "Wort38",
+      "russian": "Слово38",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 39,
+    "fields": {
+      "german": "Wort39",
+      "russian": "Слово39",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 40,
+    "fields": {
+      "german": "Wort40",
+      "russian": "Слово40",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 41,
+    "fields": {
+      "german": "Wort41",
+      "russian": "Слово41",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 42,
+    "fields": {
+      "german": "Wort42",
+      "russian": "Слово42",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 43,
+    "fields": {
+      "german": "Wort43",
+      "russian": "Слово43",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 44,
+    "fields": {
+      "german": "Wort44",
+      "russian": "Слово44",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 45,
+    "fields": {
+      "german": "Wort45",
+      "russian": "Слово45",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 46,
+    "fields": {
+      "german": "Wort46",
+      "russian": "Слово46",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 47,
+    "fields": {
+      "german": "Wort47",
+      "russian": "Слово47",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 48,
+    "fields": {
+      "german": "Wort48",
+      "russian": "Слово48",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 49,
+    "fields": {
+      "german": "Wort49",
+      "russian": "Слово49",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 50,
+    "fields": {
+      "german": "Wort50",
+      "russian": "Слово50",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort50.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 51,
+    "fields": {
+      "german": "Wort51",
+      "russian": "Слово51",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort51.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 52,
+    "fields": {
+      "german": "Wort52",
+      "russian": "Слово52",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort52.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 53,
+    "fields": {
+      "german": "Wort53",
+      "russian": "Слово53",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort53.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 54,
+    "fields": {
+      "german": "Wort54",
+      "russian": "Слово54",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort54.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 55,
+    "fields": {
+      "german": "Wort55",
+      "russian": "Слово55",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort55.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 56,
+    "fields": {
+      "german": "Wort56",
+      "russian": "Слово56",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort56.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 57,
+    "fields": {
+      "german": "Wort57",
+      "russian": "Слово57",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort57.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 58,
+    "fields": {
+      "german": "Wort58",
+      "russian": "Слово58",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort58.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 59,
+    "fields": {
+      "german": "Wort59",
+      "russian": "Слово59",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort59.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 60,
+    "fields": {
+      "german": "Wort60",
+      "russian": "Слово60",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort60.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 61,
+    "fields": {
+      "german": "Wort61",
+      "russian": "Слово61",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort61.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 62,
+    "fields": {
+      "german": "Wort62",
+      "russian": "Слово62",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort62.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 63,
+    "fields": {
+      "german": "Wort63",
+      "russian": "Слово63",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort63.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 64,
+    "fields": {
+      "german": "Wort64",
+      "russian": "Слово64",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort64.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 65,
+    "fields": {
+      "german": "Wort65",
+      "russian": "Слово65",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort65.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 66,
+    "fields": {
+      "german": "Wort66",
+      "russian": "Слово66",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort66.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 67,
+    "fields": {
+      "german": "Wort67",
+      "russian": "Слово67",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort67.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 68,
+    "fields": {
+      "german": "Wort68",
+      "russian": "Слово68",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort68.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 69,
+    "fields": {
+      "german": "Wort69",
+      "russian": "Слово69",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort69.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 70,
+    "fields": {
+      "german": "Wort70",
+      "russian": "Слово70",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort70.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 71,
+    "fields": {
+      "german": "Wort71",
+      "russian": "Слово71",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort71.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 72,
+    "fields": {
+      "german": "Wort72",
+      "russian": "Слово72",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort72.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 73,
+    "fields": {
+      "german": "Wort73",
+      "russian": "Слово73",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort73.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 74,
+    "fields": {
+      "german": "Wort74",
+      "russian": "Слово74",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort74.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 75,
+    "fields": {
+      "german": "Wort75",
+      "russian": "Слово75",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort75.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 76,
+    "fields": {
+      "german": "Wort76",
+      "russian": "Слово76",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort76.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 77,
+    "fields": {
+      "german": "Wort77",
+      "russian": "Слово77",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort77.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 78,
+    "fields": {
+      "german": "Wort78",
+      "russian": "Слово78",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort78.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 79,
+    "fields": {
+      "german": "Wort79",
+      "russian": "Слово79",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort79.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 80,
+    "fields": {
+      "german": "Wort80",
+      "russian": "Слово80",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort80.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 81,
+    "fields": {
+      "german": "Wort81",
+      "russian": "Слово81",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort81.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 82,
+    "fields": {
+      "german": "Wort82",
+      "russian": "Слово82",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort82.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 83,
+    "fields": {
+      "german": "Wort83",
+      "russian": "Слово83",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort83.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 84,
+    "fields": {
+      "german": "Wort84",
+      "russian": "Слово84",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort84.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 85,
+    "fields": {
+      "german": "Wort85",
+      "russian": "Слово85",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort85.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 86,
+    "fields": {
+      "german": "Wort86",
+      "russian": "Слово86",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort86.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 87,
+    "fields": {
+      "german": "Wort87",
+      "russian": "Слово87",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort87.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 88,
+    "fields": {
+      "german": "Wort88",
+      "russian": "Слово88",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort88.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 89,
+    "fields": {
+      "german": "Wort89",
+      "russian": "Слово89",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort89.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 90,
+    "fields": {
+      "german": "Wort90",
+      "russian": "Слово90",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort90.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 91,
+    "fields": {
+      "german": "Wort91",
+      "russian": "Слово91",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort91.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 92,
+    "fields": {
+      "german": "Wort92",
+      "russian": "Слово92",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort92.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 93,
+    "fields": {
+      "german": "Wort93",
+      "russian": "Слово93",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort93.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 94,
+    "fields": {
+      "german": "Wort94",
+      "russian": "Слово94",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort94.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 95,
+    "fields": {
+      "german": "Wort95",
+      "russian": "Слово95",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort95.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 96,
+    "fields": {
+      "german": "Wort96",
+      "russian": "Слово96",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort96.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 97,
+    "fields": {
+      "german": "Wort97",
+      "russian": "Слово97",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort97.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 98,
+    "fields": {
+      "german": "Wort98",
+      "russian": "Слово98",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort98.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 99,
+    "fields": {
+      "german": "Wort99",
+      "russian": "Слово99",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort99.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 100,
+    "fields": {
+      "german": "Wort100",
+      "russian": "Слово100",
+      "part_of_speech": "noun",
+      "example": "Beispiel für Wort100.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 1,
+    "fields": {
+      "title": "Text 1",
+      "content": "Inhalt von Text 1. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 1?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 2,
+    "fields": {
+      "title": "Text 2",
+      "content": "Inhalt von Text 2. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 2?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 3,
+    "fields": {
+      "title": "Text 3",
+      "content": "Inhalt von Text 3. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 3?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 4,
+    "fields": {
+      "title": "Text 4",
+      "content": "Inhalt von Text 4. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 4?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 5,
+    "fields": {
+      "title": "Text 5",
+      "content": "Inhalt von Text 5. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 5?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 6,
+    "fields": {
+      "title": "Text 6",
+      "content": "Inhalt von Text 6. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 6?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 7,
+    "fields": {
+      "title": "Text 7",
+      "content": "Inhalt von Text 7. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 7?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 8,
+    "fields": {
+      "title": "Text 8",
+      "content": "Inhalt von Text 8. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 8?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 9,
+    "fields": {
+      "title": "Text 9",
+      "content": "Inhalt von Text 9. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 9?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 10,
+    "fields": {
+      "title": "Text 10",
+      "content": "Inhalt von Text 10. Das ist ein einfacher Text für A1.",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Frage zu Text 10?",
+          "answer": "Antwort"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 1,
+    "fields": {
+      "word": 2,
+      "question": "Übersetze 'Wort1'",
+      "correct_answer": "Слово1",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 2,
+    "fields": {
+      "word": 3,
+      "question": "Übersetze 'Wort2'",
+      "correct_answer": "Слово2",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 3,
+    "fields": {
+      "word": 4,
+      "question": "Übersetze 'Wort3'",
+      "correct_answer": "Слово3",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 4,
+    "fields": {
+      "word": 5,
+      "question": "Übersetze 'Wort4'",
+      "correct_answer": "Слово4",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 5,
+    "fields": {
+      "word": 6,
+      "question": "Übersetze 'Wort5'",
+      "correct_answer": "Слово5",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 6,
+    "fields": {
+      "word": 7,
+      "question": "Übersetze 'Wort6'",
+      "correct_answer": "Слово6",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 7,
+    "fields": {
+      "word": 8,
+      "question": "Übersetze 'Wort7'",
+      "correct_answer": "Слово7",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 8,
+    "fields": {
+      "word": 9,
+      "question": "Übersetze 'Wort8'",
+      "correct_answer": "Слово8",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 9,
+    "fields": {
+      "word": 10,
+      "question": "Übersetze 'Wort9'",
+      "correct_answer": "Слово9",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 10,
+    "fields": {
+      "word": 11,
+      "question": "Übersetze 'Wort10'",
+      "correct_answer": "Слово10",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 11,
+    "fields": {
+      "word": 12,
+      "question": "Übersetze 'Wort11'",
+      "correct_answer": "Слово11",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 12,
+    "fields": {
+      "word": 13,
+      "question": "Übersetze 'Wort12'",
+      "correct_answer": "Слово12",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 13,
+    "fields": {
+      "word": 14,
+      "question": "Übersetze 'Wort13'",
+      "correct_answer": "Слово13",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 14,
+    "fields": {
+      "word": 15,
+      "question": "Übersetze 'Wort14'",
+      "correct_answer": "Слово14",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 15,
+    "fields": {
+      "word": 16,
+      "question": "Übersetze 'Wort15'",
+      "correct_answer": "Слово15",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 16,
+    "fields": {
+      "word": 17,
+      "question": "Übersetze 'Wort16'",
+      "correct_answer": "Слово16",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 17,
+    "fields": {
+      "word": 18,
+      "question": "Übersetze 'Wort17'",
+      "correct_answer": "Слово17",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 18,
+    "fields": {
+      "word": 19,
+      "question": "Übersetze 'Wort18'",
+      "correct_answer": "Слово18",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 19,
+    "fields": {
+      "word": 20,
+      "question": "Übersetze 'Wort19'",
+      "correct_answer": "Слово19",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 20,
+    "fields": {
+      "word": 21,
+      "question": "Übersetze 'Wort20'",
+      "correct_answer": "Слово20",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 21,
+    "fields": {
+      "word": 22,
+      "question": "Übersetze 'Wort21'",
+      "correct_answer": "Слово21",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 22,
+    "fields": {
+      "word": 23,
+      "question": "Übersetze 'Wort22'",
+      "correct_answer": "Слово22",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 23,
+    "fields": {
+      "word": 24,
+      "question": "Übersetze 'Wort23'",
+      "correct_answer": "Слово23",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 24,
+    "fields": {
+      "word": 25,
+      "question": "Übersetze 'Wort24'",
+      "correct_answer": "Слово24",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 25,
+    "fields": {
+      "word": 26,
+      "question": "Übersetze 'Wort25'",
+      "correct_answer": "Слово25",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 26,
+    "fields": {
+      "word": 27,
+      "question": "Übersetze 'Wort26'",
+      "correct_answer": "Слово26",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 27,
+    "fields": {
+      "word": 28,
+      "question": "Übersetze 'Wort27'",
+      "correct_answer": "Слово27",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 28,
+    "fields": {
+      "word": 29,
+      "question": "Übersetze 'Wort28'",
+      "correct_answer": "Слово28",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 29,
+    "fields": {
+      "word": 30,
+      "question": "Übersetze 'Wort29'",
+      "correct_answer": "Слово29",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 30,
+    "fields": {
+      "word": 31,
+      "question": "Übersetze 'Wort30'",
+      "correct_answer": "Слово30",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 31,
+    "fields": {
+      "word": 32,
+      "question": "Übersetze 'Wort31'",
+      "correct_answer": "Слово31",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 32,
+    "fields": {
+      "word": 33,
+      "question": "Übersetze 'Wort32'",
+      "correct_answer": "Слово32",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 33,
+    "fields": {
+      "word": 34,
+      "question": "Übersetze 'Wort33'",
+      "correct_answer": "Слово33",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 34,
+    "fields": {
+      "word": 35,
+      "question": "Übersetze 'Wort34'",
+      "correct_answer": "Слово34",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 35,
+    "fields": {
+      "word": 36,
+      "question": "Übersetze 'Wort35'",
+      "correct_answer": "Слово35",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 36,
+    "fields": {
+      "word": 37,
+      "question": "Übersetze 'Wort36'",
+      "correct_answer": "Слово36",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 37,
+    "fields": {
+      "word": 38,
+      "question": "Übersetze 'Wort37'",
+      "correct_answer": "Слово37",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 38,
+    "fields": {
+      "word": 39,
+      "question": "Übersetze 'Wort38'",
+      "correct_answer": "Слово38",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 39,
+    "fields": {
+      "word": 40,
+      "question": "Übersetze 'Wort39'",
+      "correct_answer": "Слово39",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 40,
+    "fields": {
+      "word": 41,
+      "question": "Übersetze 'Wort40'",
+      "correct_answer": "Слово40",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 41,
+    "fields": {
+      "word": 42,
+      "question": "Übersetze 'Wort41'",
+      "correct_answer": "Слово41",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 42,
+    "fields": {
+      "word": 43,
+      "question": "Übersetze 'Wort42'",
+      "correct_answer": "Слово42",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 43,
+    "fields": {
+      "word": 44,
+      "question": "Übersetze 'Wort43'",
+      "correct_answer": "Слово43",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 44,
+    "fields": {
+      "word": 45,
+      "question": "Übersetze 'Wort44'",
+      "correct_answer": "Слово44",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 45,
+    "fields": {
+      "word": 46,
+      "question": "Übersetze 'Wort45'",
+      "correct_answer": "Слово45",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 46,
+    "fields": {
+      "word": 47,
+      "question": "Übersetze 'Wort46'",
+      "correct_answer": "Слово46",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 47,
+    "fields": {
+      "word": 48,
+      "question": "Übersetze 'Wort47'",
+      "correct_answer": "Слово47",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 48,
+    "fields": {
+      "word": 49,
+      "question": "Übersetze 'Wort48'",
+      "correct_answer": "Слово48",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 49,
+    "fields": {
+      "word": 50,
+      "question": "Übersetze 'Wort49'",
+      "correct_answer": "Слово49",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 50,
+    "fields": {
+      "word": 51,
+      "question": "Übersetze 'Wort50'",
+      "correct_answer": "Слово50",
+      "answer_type": "input"
+    }
+  }
+]

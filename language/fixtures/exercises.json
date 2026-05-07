@@ -1,0 +1,13 @@
+[
+  {
+    "model": "language.exercise",
+    "pk": 1,
+    "fields": {
+      "word": 1,
+      "question": "Переведите слово 'Hallo'",
+      "correct_answer": "Привет",
+      "answer_type": "input"
+    }
+  }
+]
+

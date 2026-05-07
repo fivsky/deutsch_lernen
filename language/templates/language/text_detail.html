@@ -1,0 +1,17 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<h2>📄 {{ text.title }}</h2>
+<div class="card">
+    <p>{{ text.content|linebreaks }}</p>
+    <form method="post">
+        {% csrf_token %}
+        {% for question in text.questions %}
+            <div style="margin-bottom: 20px;">
+                <p><strong>{{ question.question }}</strong></p>
+                <input type="text" name="q{{ forloop.counter0 }}" placeholder="Ваш ответ" style="width: 100%; padding: 12px; border-radius: 30px; border: 1px solid #e6b422; background: #1a1a20; color: #fff; font-family: inherit;">
+            </div>
+        {% endfor %}
+        <button type="submit" class="btn-metal btn-submit">✨ Отправить ответ ✨</button>
+    </form>
+</div>
+{% endblock %}

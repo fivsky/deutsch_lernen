@@ -1,0 +1,1002 @@
+[
+  {
+    "model": "language.exercise",
+    "pk": 1,
+    "fields": {
+      "word": 1,
+      "question": "Переведите слово 'der Tisch'",
+      "correct_answer": "стол",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 2,
+    "fields": {
+      "word": 2,
+      "question": "Переведите слово 'die Sonne'",
+      "correct_answer": "солнце",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 3,
+    "fields": {
+      "word": 3,
+      "question": "Переведите слово 'laufen'",
+      "correct_answer": "бегать",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 4,
+    "fields": {
+      "word": 4,
+      "question": "Переведите слово 'schnell'",
+      "correct_answer": "быстрый",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 5,
+    "fields": {
+      "word": 5,
+      "question": "Переведите слово 'arbeiten'",
+      "correct_answer": "работать",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 6,
+    "fields": {
+      "word": 6,
+      "question": "Переведите слово 'das Buch'",
+      "correct_answer": "книга",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 7,
+    "fields": {
+      "word": 7,
+      "question": "Переведите слово 'lesen'",
+      "correct_answer": "читать",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 8,
+    "fields": {
+      "word": 8,
+      "question": "Переведите слово 'schön'",
+      "correct_answer": "красивый",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 9,
+    "fields": {
+      "word": 9,
+      "question": "Переведите слово 'die Stadt'",
+      "correct_answer": "город",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 10,
+    "fields": {
+      "word": 10,
+      "question": "Переведите слово 'fahren'",
+      "correct_answer": "ехать",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 11,
+    "fields": {
+      "word": 11,
+      "question": "Переведите слово 'der Tisch1'",
+      "correct_answer": "стол (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 12,
+    "fields": {
+      "word": 12,
+      "question": "Переведите слово 'die Sonne1'",
+      "correct_answer": "солнце (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 13,
+    "fields": {
+      "word": 13,
+      "question": "Переведите слово 'laufen1'",
+      "correct_answer": "бегать (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 14,
+    "fields": {
+      "word": 14,
+      "question": "Переведите слово 'schnell1'",
+      "correct_answer": "быстрый (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 15,
+    "fields": {
+      "word": 15,
+      "question": "Переведите слово 'arbeiten1'",
+      "correct_answer": "работать (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 16,
+    "fields": {
+      "word": 16,
+      "question": "Переведите слово 'das Buch1'",
+      "correct_answer": "книга (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 17,
+    "fields": {
+      "word": 17,
+      "question": "Переведите слово 'lesen1'",
+      "correct_answer": "читать (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 18,
+    "fields": {
+      "word": 18,
+      "question": "Переведите слово 'schön1'",
+      "correct_answer": "красивый (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 19,
+    "fields": {
+      "word": 19,
+      "question": "Переведите слово 'die Stadt1'",
+      "correct_answer": "город (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 20,
+    "fields": {
+      "word": 20,
+      "question": "Переведите слово 'fahren1'",
+      "correct_answer": "ехать (вар. 1)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 21,
+    "fields": {
+      "word": 21,
+      "question": "Переведите слово 'der Tisch2'",
+      "correct_answer": "стол (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 22,
+    "fields": {
+      "word": 22,
+      "question": "Переведите слово 'die Sonne2'",
+      "correct_answer": "солнце (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 23,
+    "fields": {
+      "word": 23,
+      "question": "Переведите слово 'laufen2'",
+      "correct_answer": "бегать (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 24,
+    "fields": {
+      "word": 24,
+      "question": "Переведите слово 'schnell2'",
+      "correct_answer": "быстрый (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 25,
+    "fields": {
+      "word": 25,
+      "question": "Переведите слово 'arbeiten2'",
+      "correct_answer": "работать (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 26,
+    "fields": {
+      "word": 26,
+      "question": "Переведите слово 'das Buch2'",
+      "correct_answer": "книга (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 27,
+    "fields": {
+      "word": 27,
+      "question": "Переведите слово 'lesen2'",
+      "correct_answer": "читать (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 28,
+    "fields": {
+      "word": 28,
+      "question": "Переведите слово 'schön2'",
+      "correct_answer": "красивый (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 29,
+    "fields": {
+      "word": 29,
+      "question": "Переведите слово 'die Stadt2'",
+      "correct_answer": "город (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 30,
+    "fields": {
+      "word": 30,
+      "question": "Переведите слово 'fahren2'",
+      "correct_answer": "ехать (вар. 2)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 31,
+    "fields": {
+      "word": 31,
+      "question": "Переведите слово 'der Tisch3'",
+      "correct_answer": "стол (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 32,
+    "fields": {
+      "word": 32,
+      "question": "Переведите слово 'die Sonne3'",
+      "correct_answer": "солнце (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 33,
+    "fields": {
+      "word": 33,
+      "question": "Переведите слово 'laufen3'",
+      "correct_answer": "бегать (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 34,
+    "fields": {
+      "word": 34,
+      "question": "Переведите слово 'schnell3'",
+      "correct_answer": "быстрый (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 35,
+    "fields": {
+      "word": 35,
+      "question": "Переведите слово 'arbeiten3'",
+      "correct_answer": "работать (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 36,
+    "fields": {
+      "word": 36,
+      "question": "Переведите слово 'das Buch3'",
+      "correct_answer": "книга (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 37,
+    "fields": {
+      "word": 37,
+      "question": "Переведите слово 'lesen3'",
+      "correct_answer": "читать (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 38,
+    "fields": {
+      "word": 38,
+      "question": "Переведите слово 'schön3'",
+      "correct_answer": "красивый (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 39,
+    "fields": {
+      "word": 39,
+      "question": "Переведите слово 'die Stadt3'",
+      "correct_answer": "город (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 40,
+    "fields": {
+      "word": 40,
+      "question": "Переведите слово 'fahren3'",
+      "correct_answer": "ехать (вар. 3)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 41,
+    "fields": {
+      "word": 41,
+      "question": "Переведите слово 'der Tisch4'",
+      "correct_answer": "стол (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 42,
+    "fields": {
+      "word": 42,
+      "question": "Переведите слово 'die Sonne4'",
+      "correct_answer": "солнце (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 43,
+    "fields": {
+      "word": 43,
+      "question": "Переведите слово 'laufen4'",
+      "correct_answer": "бегать (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 44,
+    "fields": {
+      "word": 44,
+      "question": "Переведите слово 'schnell4'",
+      "correct_answer": "быстрый (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 45,
+    "fields": {
+      "word": 45,
+      "question": "Переведите слово 'arbeiten4'",
+      "correct_answer": "работать (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 46,
+    "fields": {
+      "word": 46,
+      "question": "Переведите слово 'das Buch4'",
+      "correct_answer": "книга (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 47,
+    "fields": {
+      "word": 47,
+      "question": "Переведите слово 'lesen4'",
+      "correct_answer": "читать (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 48,
+    "fields": {
+      "word": 48,
+      "question": "Переведите слово 'schön4'",
+      "correct_answer": "красивый (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 49,
+    "fields": {
+      "word": 49,
+      "question": "Переведите слово 'die Stadt4'",
+      "correct_answer": "город (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 50,
+    "fields": {
+      "word": 50,
+      "question": "Переведите слово 'fahren4'",
+      "correct_answer": "ехать (вар. 4)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 51,
+    "fields": {
+      "word": 51,
+      "question": "Переведите слово 'der Tisch5'",
+      "correct_answer": "стол (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 52,
+    "fields": {
+      "word": 52,
+      "question": "Переведите слово 'die Sonne5'",
+      "correct_answer": "солнце (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 53,
+    "fields": {
+      "word": 53,
+      "question": "Переведите слово 'laufen5'",
+      "correct_answer": "бегать (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 54,
+    "fields": {
+      "word": 54,
+      "question": "Переведите слово 'schnell5'",
+      "correct_answer": "быстрый (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 55,
+    "fields": {
+      "word": 55,
+      "question": "Переведите слово 'arbeiten5'",
+      "correct_answer": "работать (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 56,
+    "fields": {
+      "word": 56,
+      "question": "Переведите слово 'das Buch5'",
+      "correct_answer": "книга (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 57,
+    "fields": {
+      "word": 57,
+      "question": "Переведите слово 'lesen5'",
+      "correct_answer": "читать (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 58,
+    "fields": {
+      "word": 58,
+      "question": "Переведите слово 'schön5'",
+      "correct_answer": "красивый (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 59,
+    "fields": {
+      "word": 59,
+      "question": "Переведите слово 'die Stadt5'",
+      "correct_answer": "город (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 60,
+    "fields": {
+      "word": 60,
+      "question": "Переведите слово 'fahren5'",
+      "correct_answer": "ехать (вар. 5)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 61,
+    "fields": {
+      "word": 61,
+      "question": "Переведите слово 'der Tisch6'",
+      "correct_answer": "стол (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 62,
+    "fields": {
+      "word": 62,
+      "question": "Переведите слово 'die Sonne6'",
+      "correct_answer": "солнце (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 63,
+    "fields": {
+      "word": 63,
+      "question": "Переведите слово 'laufen6'",
+      "correct_answer": "бегать (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 64,
+    "fields": {
+      "word": 64,
+      "question": "Переведите слово 'schnell6'",
+      "correct_answer": "быстрый (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 65,
+    "fields": {
+      "word": 65,
+      "question": "Переведите слово 'arbeiten6'",
+      "correct_answer": "работать (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 66,
+    "fields": {
+      "word": 66,
+      "question": "Переведите слово 'das Buch6'",
+      "correct_answer": "книга (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 67,
+    "fields": {
+      "word": 67,
+      "question": "Переведите слово 'lesen6'",
+      "correct_answer": "читать (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 68,
+    "fields": {
+      "word": 68,
+      "question": "Переведите слово 'schön6'",
+      "correct_answer": "красивый (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 69,
+    "fields": {
+      "word": 69,
+      "question": "Переведите слово 'die Stadt6'",
+      "correct_answer": "город (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 70,
+    "fields": {
+      "word": 70,
+      "question": "Переведите слово 'fahren6'",
+      "correct_answer": "ехать (вар. 6)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 71,
+    "fields": {
+      "word": 71,
+      "question": "Переведите слово 'der Tisch7'",
+      "correct_answer": "стол (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 72,
+    "fields": {
+      "word": 72,
+      "question": "Переведите слово 'die Sonne7'",
+      "correct_answer": "солнце (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 73,
+    "fields": {
+      "word": 73,
+      "question": "Переведите слово 'laufen7'",
+      "correct_answer": "бегать (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 74,
+    "fields": {
+      "word": 74,
+      "question": "Переведите слово 'schnell7'",
+      "correct_answer": "быстрый (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 75,
+    "fields": {
+      "word": 75,
+      "question": "Переведите слово 'arbeiten7'",
+      "correct_answer": "работать (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 76,
+    "fields": {
+      "word": 76,
+      "question": "Переведите слово 'das Buch7'",
+      "correct_answer": "книга (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 77,
+    "fields": {
+      "word": 77,
+      "question": "Переведите слово 'lesen7'",
+      "correct_answer": "читать (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 78,
+    "fields": {
+      "word": 78,
+      "question": "Переведите слово 'schön7'",
+      "correct_answer": "красивый (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 79,
+    "fields": {
+      "word": 79,
+      "question": "Переведите слово 'die Stadt7'",
+      "correct_answer": "город (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 80,
+    "fields": {
+      "word": 80,
+      "question": "Переведите слово 'fahren7'",
+      "correct_answer": "ехать (вар. 7)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 81,
+    "fields": {
+      "word": 81,
+      "question": "Переведите слово 'der Tisch8'",
+      "correct_answer": "стол (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 82,
+    "fields": {
+      "word": 82,
+      "question": "Переведите слово 'die Sonne8'",
+      "correct_answer": "солнце (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 83,
+    "fields": {
+      "word": 83,
+      "question": "Переведите слово 'laufen8'",
+      "correct_answer": "бегать (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 84,
+    "fields": {
+      "word": 84,
+      "question": "Переведите слово 'schnell8'",
+      "correct_answer": "быстрый (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 85,
+    "fields": {
+      "word": 85,
+      "question": "Переведите слово 'arbeiten8'",
+      "correct_answer": "работать (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 86,
+    "fields": {
+      "word": 86,
+      "question": "Переведите слово 'das Buch8'",
+      "correct_answer": "книга (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 87,
+    "fields": {
+      "word": 87,
+      "question": "Переведите слово 'lesen8'",
+      "correct_answer": "читать (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 88,
+    "fields": {
+      "word": 88,
+      "question": "Переведите слово 'schön8'",
+      "correct_answer": "красивый (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 89,
+    "fields": {
+      "word": 89,
+      "question": "Переведите слово 'die Stadt8'",
+      "correct_answer": "город (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 90,
+    "fields": {
+      "word": 90,
+      "question": "Переведите слово 'fahren8'",
+      "correct_answer": "ехать (вар. 8)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 91,
+    "fields": {
+      "word": 91,
+      "question": "Переведите слово 'der Tisch9'",
+      "correct_answer": "стол (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 92,
+    "fields": {
+      "word": 92,
+      "question": "Переведите слово 'die Sonne9'",
+      "correct_answer": "солнце (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 93,
+    "fields": {
+      "word": 93,
+      "question": "Переведите слово 'laufen9'",
+      "correct_answer": "бегать (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 94,
+    "fields": {
+      "word": 94,
+      "question": "Переведите слово 'schnell9'",
+      "correct_answer": "быстрый (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 95,
+    "fields": {
+      "word": 95,
+      "question": "Переведите слово 'arbeiten9'",
+      "correct_answer": "работать (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 96,
+    "fields": {
+      "word": 96,
+      "question": "Переведите слово 'das Buch9'",
+      "correct_answer": "книга (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 97,
+    "fields": {
+      "word": 97,
+      "question": "Переведите слово 'lesen9'",
+      "correct_answer": "читать (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 98,
+    "fields": {
+      "word": 98,
+      "question": "Переведите слово 'schön9'",
+      "correct_answer": "красивый (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 99,
+    "fields": {
+      "word": 99,
+      "question": "Переведите слово 'die Stadt9'",
+      "correct_answer": "город (вар. 9)",
+      "answer_type": "input"
+    }
+  },
+  {
+    "model": "language.exercise",
+    "pk": 100,
+    "fields": {
+      "word": 100,
+      "question": "Переведите слово 'fahren9'",
+      "correct_answer": "ехать (вар. 9)",
+      "answer_type": "input"
+    }
+  }
+]

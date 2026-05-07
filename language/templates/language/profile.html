@@ -1,0 +1,10 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<div class="card-modern" style="text-align:center;">
+    <h2 class="word-title">👤 {{ user.username }}</h2>
+    <p>🏆 Очки: {{ progress.total_points }}</p>
+    <p>📖 Слов выучено: {{ progress.words_learned }}</p>
+    <p>📄 Текстов пройдено: {{ progress.texts_completed }}</p>
+    <a href="{% url 'language:trainer' %}" class="btn-flare">Продолжить тренировки</a>
+</div>
+{% endblock %}

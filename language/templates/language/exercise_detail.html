@@ -1,0 +1,17 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<h2>✍️ Упражнение</h2>
+<div class="card">
+    <p style="font-size: 1.2rem; margin-bottom: 20px;">{{ exercise.question }}</p>
+    <form method="post">
+        {% csrf_token %}
+        <input type="text" name="answer" placeholder="Ваш ответ" style="width: 100%; padding: 14px; border-radius: 60px; border: 1px solid #e6b422; background: #1a1a20; color: #fff; margin-bottom: 20px; font-family: inherit;">
+        <button type="submit" class="btn-metal btn-submit">✨ Отправить ответ ✨</button>
+    </form>
+    {% if result is not None %}
+        <p class="{% if result %}text-success{% else %}text-danger{% endif %}" style="margin-top: 20px; font-size: 1.1rem;">
+            {% if result %}✅ Блестяще! Верно.{% else %}❌ Неверно. Правильный ответ: {{ exercise.correct_answer }}{% endif %}
+        </p>
+    {% endif %}
+</div>
+{% endblock %}

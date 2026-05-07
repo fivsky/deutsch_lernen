@@ -1,0 +1,382 @@
+[
+  {
+    "model": "language.text",
+    "pk": 1,
+    "fields": {
+      "title": "Meine Familie 1",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 1)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 2,
+    "fields": {
+      "title": "Mein Tag 2",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 2)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 3,
+    "fields": {
+      "title": "Im Café 3",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 3)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 4,
+    "fields": {
+      "title": "Meine Familie 4",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 4)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 5,
+    "fields": {
+      "title": "Mein Tag 5",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 5)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 6,
+    "fields": {
+      "title": "Im Café 6",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 6)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 7,
+    "fields": {
+      "title": "Meine Familie 7",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 7)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 8,
+    "fields": {
+      "title": "Mein Tag 8",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 8)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 9,
+    "fields": {
+      "title": "Im Café 9",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 9)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 10,
+    "fields": {
+      "title": "Meine Familie 10",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 10)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 11,
+    "fields": {
+      "title": "Mein Tag 11",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 11)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 12,
+    "fields": {
+      "title": "Im Café 12",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 12)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 13,
+    "fields": {
+      "title": "Meine Familie 13",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 13)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 14,
+    "fields": {
+      "title": "Mein Tag 14",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 14)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 15,
+    "fields": {
+      "title": "Im Café 15",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 15)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 16,
+    "fields": {
+      "title": "Meine Familie 16",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 16)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 17,
+    "fields": {
+      "title": "Mein Tag 17",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 17)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 18,
+    "fields": {
+      "title": "Im Café 18",
+      "content": "Gestern war ich in einem Café. Ich bestellte einen Kaffee und ein Stück Kuchen. Es war sehr lecker. (версия 18)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Was bestellte ich?",
+          "answer": "einen Kaffee und ein Stück Kuchen"
+        },
+        {
+          "question": "Wie war es?",
+          "answer": "lecker"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 19,
+    "fields": {
+      "title": "Meine Familie 19",
+      "content": "Ich heiße Anna. Meine Familie ist nicht groß. Meine Mutter arbeitet als Ärztin, mein Vater ist Lehrer. Ich habe einen Bruder. (версия 19)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wie heißt die Person?",
+          "answer": "Anna"
+        },
+        {
+          "question": "Was arbeitet die Mutter?",
+          "answer": "Ärztin"
+        }
+      ]
+    }
+  },
+  {
+    "model": "language.text",
+    "pk": 20,
+    "fields": {
+      "title": "Mein Tag 20",
+      "content": "Morgens stehe ich um 7 Uhr auf. Dann dusche ich und frühstücke. Um 8 Uhr gehe ich zur Arbeit. (версия 20)",
+      "level": "A1",
+      "questions": [
+        {
+          "question": "Wann stehe ich auf?",
+          "answer": "um 7 Uhr"
+        },
+        {
+          "question": "Was mache ich um 8 Uhr?",
+          "answer": "zur Arbeit gehen"
+        }
+      ]
+    }
+  }
+]

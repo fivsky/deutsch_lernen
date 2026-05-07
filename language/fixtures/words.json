@@ -1,0 +1,13 @@
+[
+  {
+    "model": "language.word",
+    "pk": 1,
+    "fields": {
+      "german": "Hallo",
+      "russian": "Привет",
+      "part_of_speech": "Interjektion",
+      "example": "Hallo, wie geht es dir?",
+      "level": "A1"
+    }
+  }
+]

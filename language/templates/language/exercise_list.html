@@ -1,0 +1,14 @@
+{% extends 'language/base.html' %}
+{% block content %}
+<h2 style="color:#ffc857;">✍️ Упражнения</h2>
+<div style="display: grid; gap: 20px;">
+    {% for ex in exercises %}
+    <div class="card-modern">
+        <div class="word-title">➤ {{ ex.question|truncatechars:100 }}</div>
+        <a href="{% url 'language:exercise_detail' ex.id %}" class="btn-flare">Выполнить</a>
+    </div>
+    {% empty %}
+        <p>Упражнений пока нет. Добавь через админку.</p>
+    {% endfor %}
+</div>
+{% endblock %}

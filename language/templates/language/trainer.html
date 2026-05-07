@@ -1,0 +1,14 @@
+﻿{% extends 'language/base.html' %}
+{% block content %}
+<div class="trainer-card">
+    <h2 style="color:#e6b422;">🎲 Тренажёр</h2>
+    <div class="german-word">{{ word.german }}</div>
+    <form method="post">
+        {% csrf_token %}
+        <input type="hidden" name="word_id" value="{{ word.id }}">
+        <button type="submit" name="known" value="true" class="btn-metal" style="margin-right: 20px;">✅ Знаю</button>
+        <button type="submit" name="known" value="false" class="btn-metal">❌ Не знаю</button>
+    </form>
+    <p style="margin-top: 30px;"><a href="{% url 'language:trainer' %}" style="color:#e6b422;">Пропустить →</a></p>
+</div>
+{% endblock %}

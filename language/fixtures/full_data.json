@@ -1,0 +1,11 @@
+[
+  {"model": "language.word", "pk": 1, "fields": {"german": "Hallo", "russian": "Привет", "part_of_speech": "Interjektion", "example": "Hallo, wie geht's?", "level": "A1"}},
+  {"model": "language.word", "pk": 2, "fields": {"german": "Tisch", "russian": "Стол", "part_of_speech": "Substantiv", "example": "Der Tisch ist braun.", "level": "A1"}},
+  {"model": "language.word", "pk": 3, "fields": {"german": "Sonne", "russian": "Солнце", "part_of_speech": "Substantiv", "example": "Die Sonne scheint.", "level": "A1"}},
+  {"model": "language.word", "pk": 4, "fields": {"german": "laufen", "russian": "бегать", "part_of_speech": "Verb", "example": "Ich laufe jeden Tag.", "level": "A1"}},
+  {"model": "language.word", "pk": 5, "fields": {"german": "schnell", "russian": "быстрый", "part_of_speech": "Adjektiv", "example": "Das Auto ist schnell.", "level": "A1"}},
+  {"model": "language.text", "pk": 1, "fields": {"title": "Meine Familie", "content": "Ich heiße Anna. Meine Familie ist klein: Mutter, Vater und ein Bruder.", "level": "A1", "questions": [{"question": "Wie heißt die Person?", "answer": "Anna"}]}},
+  {"model": "language.text", "pk": 2, "fields": {"title": "Mein Tag", "content": "Morgens stehe ich um 7 auf. Dann frühstücke ich.", "level": "A1", "questions": [{"question": "Wann stehe ich auf?", "answer": "um 7"}]}},
+  {"model": "language.exercise", "pk": 1, "fields": {"word": 1, "question": "Переведите 'Hallo'", "correct_answer": "Привет", "answer_type": "input"}},
+  {"model": "language.exercise", "pk": 2, "fields": {"word": 2, "question": "Переведите 'Tisch'", "correct_answer": "Стол", "answer_type": "input"}}
+]

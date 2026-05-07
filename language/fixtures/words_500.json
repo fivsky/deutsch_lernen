@@ -1,0 +1,5502 @@
+[
+  {
+    "model": "language.word",
+    "pk": 1,
+    "fields": {
+      "german": "der Tisch",
+      "russian": "стол",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 2,
+    "fields": {
+      "german": "die Sonne",
+      "russian": "солнце",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 3,
+    "fields": {
+      "german": "laufen",
+      "russian": "бегать",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 4,
+    "fields": {
+      "german": "schnell",
+      "russian": "быстрый",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 5,
+    "fields": {
+      "german": "arbeiten",
+      "russian": "работать",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 6,
+    "fields": {
+      "german": "das Buch",
+      "russian": "книга",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 7,
+    "fields": {
+      "german": "lesen",
+      "russian": "читать",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 8,
+    "fields": {
+      "german": "schön",
+      "russian": "красивый",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 9,
+    "fields": {
+      "german": "die Stadt",
+      "russian": "город",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 10,
+    "fields": {
+      "german": "fahren",
+      "russian": "ехать",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 11,
+    "fields": {
+      "german": "der Tisch1",
+      "russian": "стол (вар. 1)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 12,
+    "fields": {
+      "german": "die Sonne1",
+      "russian": "солнце (вар. 1)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 13,
+    "fields": {
+      "german": "laufen1",
+      "russian": "бегать (вар. 1)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 14,
+    "fields": {
+      "german": "schnell1",
+      "russian": "быстрый (вар. 1)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 15,
+    "fields": {
+      "german": "arbeiten1",
+      "russian": "работать (вар. 1)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 16,
+    "fields": {
+      "german": "das Buch1",
+      "russian": "книга (вар. 1)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 17,
+    "fields": {
+      "german": "lesen1",
+      "russian": "читать (вар. 1)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 18,
+    "fields": {
+      "german": "schön1",
+      "russian": "красивый (вар. 1)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 19,
+    "fields": {
+      "german": "die Stadt1",
+      "russian": "город (вар. 1)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 20,
+    "fields": {
+      "german": "fahren1",
+      "russian": "ехать (вар. 1)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 1.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 21,
+    "fields": {
+      "german": "der Tisch2",
+      "russian": "стол (вар. 2)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 22,
+    "fields": {
+      "german": "die Sonne2",
+      "russian": "солнце (вар. 2)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 23,
+    "fields": {
+      "german": "laufen2",
+      "russian": "бегать (вар. 2)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 24,
+    "fields": {
+      "german": "schnell2",
+      "russian": "быстрый (вар. 2)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 25,
+    "fields": {
+      "german": "arbeiten2",
+      "russian": "работать (вар. 2)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 26,
+    "fields": {
+      "german": "das Buch2",
+      "russian": "книга (вар. 2)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 27,
+    "fields": {
+      "german": "lesen2",
+      "russian": "читать (вар. 2)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 28,
+    "fields": {
+      "german": "schön2",
+      "russian": "красивый (вар. 2)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 29,
+    "fields": {
+      "german": "die Stadt2",
+      "russian": "город (вар. 2)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 30,
+    "fields": {
+      "german": "fahren2",
+      "russian": "ехать (вар. 2)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 2.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 31,
+    "fields": {
+      "german": "der Tisch3",
+      "russian": "стол (вар. 3)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 32,
+    "fields": {
+      "german": "die Sonne3",
+      "russian": "солнце (вар. 3)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 33,
+    "fields": {
+      "german": "laufen3",
+      "russian": "бегать (вар. 3)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 34,
+    "fields": {
+      "german": "schnell3",
+      "russian": "быстрый (вар. 3)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 35,
+    "fields": {
+      "german": "arbeiten3",
+      "russian": "работать (вар. 3)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 36,
+    "fields": {
+      "german": "das Buch3",
+      "russian": "книга (вар. 3)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 37,
+    "fields": {
+      "german": "lesen3",
+      "russian": "читать (вар. 3)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 38,
+    "fields": {
+      "german": "schön3",
+      "russian": "красивый (вар. 3)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 39,
+    "fields": {
+      "german": "die Stadt3",
+      "russian": "город (вар. 3)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 40,
+    "fields": {
+      "german": "fahren3",
+      "russian": "ехать (вар. 3)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 3.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 41,
+    "fields": {
+      "german": "der Tisch4",
+      "russian": "стол (вар. 4)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 42,
+    "fields": {
+      "german": "die Sonne4",
+      "russian": "солнце (вар. 4)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 43,
+    "fields": {
+      "german": "laufen4",
+      "russian": "бегать (вар. 4)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 44,
+    "fields": {
+      "german": "schnell4",
+      "russian": "быстрый (вар. 4)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 45,
+    "fields": {
+      "german": "arbeiten4",
+      "russian": "работать (вар. 4)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 46,
+    "fields": {
+      "german": "das Buch4",
+      "russian": "книга (вар. 4)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 47,
+    "fields": {
+      "german": "lesen4",
+      "russian": "читать (вар. 4)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 48,
+    "fields": {
+      "german": "schön4",
+      "russian": "красивый (вар. 4)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 49,
+    "fields": {
+      "german": "die Stadt4",
+      "russian": "город (вар. 4)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 50,
+    "fields": {
+      "german": "fahren4",
+      "russian": "ехать (вар. 4)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 4.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 51,
+    "fields": {
+      "german": "der Tisch5",
+      "russian": "стол (вар. 5)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 52,
+    "fields": {
+      "german": "die Sonne5",
+      "russian": "солнце (вар. 5)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 53,
+    "fields": {
+      "german": "laufen5",
+      "russian": "бегать (вар. 5)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 54,
+    "fields": {
+      "german": "schnell5",
+      "russian": "быстрый (вар. 5)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 55,
+    "fields": {
+      "german": "arbeiten5",
+      "russian": "работать (вар. 5)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 56,
+    "fields": {
+      "german": "das Buch5",
+      "russian": "книга (вар. 5)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 57,
+    "fields": {
+      "german": "lesen5",
+      "russian": "читать (вар. 5)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 58,
+    "fields": {
+      "german": "schön5",
+      "russian": "красивый (вар. 5)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 59,
+    "fields": {
+      "german": "die Stadt5",
+      "russian": "город (вар. 5)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 60,
+    "fields": {
+      "german": "fahren5",
+      "russian": "ехать (вар. 5)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 5.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 61,
+    "fields": {
+      "german": "der Tisch6",
+      "russian": "стол (вар. 6)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 62,
+    "fields": {
+      "german": "die Sonne6",
+      "russian": "солнце (вар. 6)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 63,
+    "fields": {
+      "german": "laufen6",
+      "russian": "бегать (вар. 6)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 64,
+    "fields": {
+      "german": "schnell6",
+      "russian": "быстрый (вар. 6)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 65,
+    "fields": {
+      "german": "arbeiten6",
+      "russian": "работать (вар. 6)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 66,
+    "fields": {
+      "german": "das Buch6",
+      "russian": "книга (вар. 6)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 67,
+    "fields": {
+      "german": "lesen6",
+      "russian": "читать (вар. 6)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 68,
+    "fields": {
+      "german": "schön6",
+      "russian": "красивый (вар. 6)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 69,
+    "fields": {
+      "german": "die Stadt6",
+      "russian": "город (вар. 6)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 70,
+    "fields": {
+      "german": "fahren6",
+      "russian": "ехать (вар. 6)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 6.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 71,
+    "fields": {
+      "german": "der Tisch7",
+      "russian": "стол (вар. 7)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 72,
+    "fields": {
+      "german": "die Sonne7",
+      "russian": "солнце (вар. 7)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 73,
+    "fields": {
+      "german": "laufen7",
+      "russian": "бегать (вар. 7)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 74,
+    "fields": {
+      "german": "schnell7",
+      "russian": "быстрый (вар. 7)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 75,
+    "fields": {
+      "german": "arbeiten7",
+      "russian": "работать (вар. 7)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 76,
+    "fields": {
+      "german": "das Buch7",
+      "russian": "книга (вар. 7)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 77,
+    "fields": {
+      "german": "lesen7",
+      "russian": "читать (вар. 7)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 78,
+    "fields": {
+      "german": "schön7",
+      "russian": "красивый (вар. 7)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 79,
+    "fields": {
+      "german": "die Stadt7",
+      "russian": "город (вар. 7)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 80,
+    "fields": {
+      "german": "fahren7",
+      "russian": "ехать (вар. 7)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 7.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 81,
+    "fields": {
+      "german": "der Tisch8",
+      "russian": "стол (вар. 8)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 82,
+    "fields": {
+      "german": "die Sonne8",
+      "russian": "солнце (вар. 8)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 83,
+    "fields": {
+      "german": "laufen8",
+      "russian": "бегать (вар. 8)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 84,
+    "fields": {
+      "german": "schnell8",
+      "russian": "быстрый (вар. 8)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 85,
+    "fields": {
+      "german": "arbeiten8",
+      "russian": "работать (вар. 8)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 86,
+    "fields": {
+      "german": "das Buch8",
+      "russian": "книга (вар. 8)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 87,
+    "fields": {
+      "german": "lesen8",
+      "russian": "читать (вар. 8)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 88,
+    "fields": {
+      "german": "schön8",
+      "russian": "красивый (вар. 8)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 89,
+    "fields": {
+      "german": "die Stadt8",
+      "russian": "город (вар. 8)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 90,
+    "fields": {
+      "german": "fahren8",
+      "russian": "ехать (вар. 8)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 8.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 91,
+    "fields": {
+      "german": "der Tisch9",
+      "russian": "стол (вар. 9)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 92,
+    "fields": {
+      "german": "die Sonne9",
+      "russian": "солнце (вар. 9)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 93,
+    "fields": {
+      "german": "laufen9",
+      "russian": "бегать (вар. 9)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 94,
+    "fields": {
+      "german": "schnell9",
+      "russian": "быстрый (вар. 9)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 95,
+    "fields": {
+      "german": "arbeiten9",
+      "russian": "работать (вар. 9)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 96,
+    "fields": {
+      "german": "das Buch9",
+      "russian": "книга (вар. 9)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 97,
+    "fields": {
+      "german": "lesen9",
+      "russian": "читать (вар. 9)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 98,
+    "fields": {
+      "german": "schön9",
+      "russian": "красивый (вар. 9)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 99,
+    "fields": {
+      "german": "die Stadt9",
+      "russian": "город (вар. 9)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 100,
+    "fields": {
+      "german": "fahren9",
+      "russian": "ехать (вар. 9)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 9.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 101,
+    "fields": {
+      "german": "der Tisch10",
+      "russian": "стол (вар. 10)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 102,
+    "fields": {
+      "german": "die Sonne10",
+      "russian": "солнце (вар. 10)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 103,
+    "fields": {
+      "german": "laufen10",
+      "russian": "бегать (вар. 10)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 104,
+    "fields": {
+      "german": "schnell10",
+      "russian": "быстрый (вар. 10)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 105,
+    "fields": {
+      "german": "arbeiten10",
+      "russian": "работать (вар. 10)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 106,
+    "fields": {
+      "german": "das Buch10",
+      "russian": "книга (вар. 10)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 107,
+    "fields": {
+      "german": "lesen10",
+      "russian": "читать (вар. 10)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 108,
+    "fields": {
+      "german": "schön10",
+      "russian": "красивый (вар. 10)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 109,
+    "fields": {
+      "german": "die Stadt10",
+      "russian": "город (вар. 10)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 110,
+    "fields": {
+      "german": "fahren10",
+      "russian": "ехать (вар. 10)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 10.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 111,
+    "fields": {
+      "german": "der Tisch11",
+      "russian": "стол (вар. 11)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 112,
+    "fields": {
+      "german": "die Sonne11",
+      "russian": "солнце (вар. 11)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 113,
+    "fields": {
+      "german": "laufen11",
+      "russian": "бегать (вар. 11)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 114,
+    "fields": {
+      "german": "schnell11",
+      "russian": "быстрый (вар. 11)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 115,
+    "fields": {
+      "german": "arbeiten11",
+      "russian": "работать (вар. 11)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 116,
+    "fields": {
+      "german": "das Buch11",
+      "russian": "книга (вар. 11)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 117,
+    "fields": {
+      "german": "lesen11",
+      "russian": "читать (вар. 11)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 118,
+    "fields": {
+      "german": "schön11",
+      "russian": "красивый (вар. 11)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 119,
+    "fields": {
+      "german": "die Stadt11",
+      "russian": "город (вар. 11)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 120,
+    "fields": {
+      "german": "fahren11",
+      "russian": "ехать (вар. 11)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 11.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 121,
+    "fields": {
+      "german": "der Tisch12",
+      "russian": "стол (вар. 12)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 122,
+    "fields": {
+      "german": "die Sonne12",
+      "russian": "солнце (вар. 12)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 123,
+    "fields": {
+      "german": "laufen12",
+      "russian": "бегать (вар. 12)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 124,
+    "fields": {
+      "german": "schnell12",
+      "russian": "быстрый (вар. 12)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 125,
+    "fields": {
+      "german": "arbeiten12",
+      "russian": "работать (вар. 12)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 126,
+    "fields": {
+      "german": "das Buch12",
+      "russian": "книга (вар. 12)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 127,
+    "fields": {
+      "german": "lesen12",
+      "russian": "читать (вар. 12)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 128,
+    "fields": {
+      "german": "schön12",
+      "russian": "красивый (вар. 12)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 129,
+    "fields": {
+      "german": "die Stadt12",
+      "russian": "город (вар. 12)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 130,
+    "fields": {
+      "german": "fahren12",
+      "russian": "ехать (вар. 12)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 12.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 131,
+    "fields": {
+      "german": "der Tisch13",
+      "russian": "стол (вар. 13)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 132,
+    "fields": {
+      "german": "die Sonne13",
+      "russian": "солнце (вар. 13)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 133,
+    "fields": {
+      "german": "laufen13",
+      "russian": "бегать (вар. 13)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 134,
+    "fields": {
+      "german": "schnell13",
+      "russian": "быстрый (вар. 13)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 135,
+    "fields": {
+      "german": "arbeiten13",
+      "russian": "работать (вар. 13)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 136,
+    "fields": {
+      "german": "das Buch13",
+      "russian": "книга (вар. 13)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 137,
+    "fields": {
+      "german": "lesen13",
+      "russian": "читать (вар. 13)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 138,
+    "fields": {
+      "german": "schön13",
+      "russian": "красивый (вар. 13)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 139,
+    "fields": {
+      "german": "die Stadt13",
+      "russian": "город (вар. 13)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 140,
+    "fields": {
+      "german": "fahren13",
+      "russian": "ехать (вар. 13)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 13.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 141,
+    "fields": {
+      "german": "der Tisch14",
+      "russian": "стол (вар. 14)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 142,
+    "fields": {
+      "german": "die Sonne14",
+      "russian": "солнце (вар. 14)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 143,
+    "fields": {
+      "german": "laufen14",
+      "russian": "бегать (вар. 14)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 144,
+    "fields": {
+      "german": "schnell14",
+      "russian": "быстрый (вар. 14)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 145,
+    "fields": {
+      "german": "arbeiten14",
+      "russian": "работать (вар. 14)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 146,
+    "fields": {
+      "german": "das Buch14",
+      "russian": "книга (вар. 14)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 147,
+    "fields": {
+      "german": "lesen14",
+      "russian": "читать (вар. 14)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 148,
+    "fields": {
+      "german": "schön14",
+      "russian": "красивый (вар. 14)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 149,
+    "fields": {
+      "german": "die Stadt14",
+      "russian": "город (вар. 14)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 150,
+    "fields": {
+      "german": "fahren14",
+      "russian": "ехать (вар. 14)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 14.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 151,
+    "fields": {
+      "german": "der Tisch15",
+      "russian": "стол (вар. 15)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 152,
+    "fields": {
+      "german": "die Sonne15",
+      "russian": "солнце (вар. 15)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 153,
+    "fields": {
+      "german": "laufen15",
+      "russian": "бегать (вар. 15)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 154,
+    "fields": {
+      "german": "schnell15",
+      "russian": "быстрый (вар. 15)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 155,
+    "fields": {
+      "german": "arbeiten15",
+      "russian": "работать (вар. 15)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 156,
+    "fields": {
+      "german": "das Buch15",
+      "russian": "книга (вар. 15)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 157,
+    "fields": {
+      "german": "lesen15",
+      "russian": "читать (вар. 15)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 158,
+    "fields": {
+      "german": "schön15",
+      "russian": "красивый (вар. 15)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 159,
+    "fields": {
+      "german": "die Stadt15",
+      "russian": "город (вар. 15)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 160,
+    "fields": {
+      "german": "fahren15",
+      "russian": "ехать (вар. 15)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 15.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 161,
+    "fields": {
+      "german": "der Tisch16",
+      "russian": "стол (вар. 16)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 162,
+    "fields": {
+      "german": "die Sonne16",
+      "russian": "солнце (вар. 16)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 163,
+    "fields": {
+      "german": "laufen16",
+      "russian": "бегать (вар. 16)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 164,
+    "fields": {
+      "german": "schnell16",
+      "russian": "быстрый (вар. 16)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 165,
+    "fields": {
+      "german": "arbeiten16",
+      "russian": "работать (вар. 16)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 166,
+    "fields": {
+      "german": "das Buch16",
+      "russian": "книга (вар. 16)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 167,
+    "fields": {
+      "german": "lesen16",
+      "russian": "читать (вар. 16)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 168,
+    "fields": {
+      "german": "schön16",
+      "russian": "красивый (вар. 16)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 169,
+    "fields": {
+      "german": "die Stadt16",
+      "russian": "город (вар. 16)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 170,
+    "fields": {
+      "german": "fahren16",
+      "russian": "ехать (вар. 16)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 16.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 171,
+    "fields": {
+      "german": "der Tisch17",
+      "russian": "стол (вар. 17)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 172,
+    "fields": {
+      "german": "die Sonne17",
+      "russian": "солнце (вар. 17)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 173,
+    "fields": {
+      "german": "laufen17",
+      "russian": "бегать (вар. 17)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 174,
+    "fields": {
+      "german": "schnell17",
+      "russian": "быстрый (вар. 17)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 175,
+    "fields": {
+      "german": "arbeiten17",
+      "russian": "работать (вар. 17)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 176,
+    "fields": {
+      "german": "das Buch17",
+      "russian": "книга (вар. 17)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 177,
+    "fields": {
+      "german": "lesen17",
+      "russian": "читать (вар. 17)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 178,
+    "fields": {
+      "german": "schön17",
+      "russian": "красивый (вар. 17)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 179,
+    "fields": {
+      "german": "die Stadt17",
+      "russian": "город (вар. 17)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 180,
+    "fields": {
+      "german": "fahren17",
+      "russian": "ехать (вар. 17)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 17.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 181,
+    "fields": {
+      "german": "der Tisch18",
+      "russian": "стол (вар. 18)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 182,
+    "fields": {
+      "german": "die Sonne18",
+      "russian": "солнце (вар. 18)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 183,
+    "fields": {
+      "german": "laufen18",
+      "russian": "бегать (вар. 18)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 184,
+    "fields": {
+      "german": "schnell18",
+      "russian": "быстрый (вар. 18)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 185,
+    "fields": {
+      "german": "arbeiten18",
+      "russian": "работать (вар. 18)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 186,
+    "fields": {
+      "german": "das Buch18",
+      "russian": "книга (вар. 18)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 187,
+    "fields": {
+      "german": "lesen18",
+      "russian": "читать (вар. 18)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 188,
+    "fields": {
+      "german": "schön18",
+      "russian": "красивый (вар. 18)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 189,
+    "fields": {
+      "german": "die Stadt18",
+      "russian": "город (вар. 18)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 190,
+    "fields": {
+      "german": "fahren18",
+      "russian": "ехать (вар. 18)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 18.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 191,
+    "fields": {
+      "german": "der Tisch19",
+      "russian": "стол (вар. 19)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 192,
+    "fields": {
+      "german": "die Sonne19",
+      "russian": "солнце (вар. 19)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 193,
+    "fields": {
+      "german": "laufen19",
+      "russian": "бегать (вар. 19)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 194,
+    "fields": {
+      "german": "schnell19",
+      "russian": "быстрый (вар. 19)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 195,
+    "fields": {
+      "german": "arbeiten19",
+      "russian": "работать (вар. 19)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 196,
+    "fields": {
+      "german": "das Buch19",
+      "russian": "книга (вар. 19)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 197,
+    "fields": {
+      "german": "lesen19",
+      "russian": "читать (вар. 19)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 198,
+    "fields": {
+      "german": "schön19",
+      "russian": "красивый (вар. 19)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 199,
+    "fields": {
+      "german": "die Stadt19",
+      "russian": "город (вар. 19)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 200,
+    "fields": {
+      "german": "fahren19",
+      "russian": "ехать (вар. 19)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 19.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 201,
+    "fields": {
+      "german": "der Tisch20",
+      "russian": "стол (вар. 20)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 202,
+    "fields": {
+      "german": "die Sonne20",
+      "russian": "солнце (вар. 20)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 203,
+    "fields": {
+      "german": "laufen20",
+      "russian": "бегать (вар. 20)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 204,
+    "fields": {
+      "german": "schnell20",
+      "russian": "быстрый (вар. 20)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 205,
+    "fields": {
+      "german": "arbeiten20",
+      "russian": "работать (вар. 20)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 206,
+    "fields": {
+      "german": "das Buch20",
+      "russian": "книга (вар. 20)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 207,
+    "fields": {
+      "german": "lesen20",
+      "russian": "читать (вар. 20)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 208,
+    "fields": {
+      "german": "schön20",
+      "russian": "красивый (вар. 20)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 209,
+    "fields": {
+      "german": "die Stadt20",
+      "russian": "город (вар. 20)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 210,
+    "fields": {
+      "german": "fahren20",
+      "russian": "ехать (вар. 20)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 20.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 211,
+    "fields": {
+      "german": "der Tisch21",
+      "russian": "стол (вар. 21)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 212,
+    "fields": {
+      "german": "die Sonne21",
+      "russian": "солнце (вар. 21)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 213,
+    "fields": {
+      "german": "laufen21",
+      "russian": "бегать (вар. 21)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 214,
+    "fields": {
+      "german": "schnell21",
+      "russian": "быстрый (вар. 21)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 215,
+    "fields": {
+      "german": "arbeiten21",
+      "russian": "работать (вар. 21)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 216,
+    "fields": {
+      "german": "das Buch21",
+      "russian": "книга (вар. 21)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 217,
+    "fields": {
+      "german": "lesen21",
+      "russian": "читать (вар. 21)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 218,
+    "fields": {
+      "german": "schön21",
+      "russian": "красивый (вар. 21)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 219,
+    "fields": {
+      "german": "die Stadt21",
+      "russian": "город (вар. 21)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 220,
+    "fields": {
+      "german": "fahren21",
+      "russian": "ехать (вар. 21)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 21.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 221,
+    "fields": {
+      "german": "der Tisch22",
+      "russian": "стол (вар. 22)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 222,
+    "fields": {
+      "german": "die Sonne22",
+      "russian": "солнце (вар. 22)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 223,
+    "fields": {
+      "german": "laufen22",
+      "russian": "бегать (вар. 22)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 224,
+    "fields": {
+      "german": "schnell22",
+      "russian": "быстрый (вар. 22)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 225,
+    "fields": {
+      "german": "arbeiten22",
+      "russian": "работать (вар. 22)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 226,
+    "fields": {
+      "german": "das Buch22",
+      "russian": "книга (вар. 22)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 227,
+    "fields": {
+      "german": "lesen22",
+      "russian": "читать (вар. 22)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 228,
+    "fields": {
+      "german": "schön22",
+      "russian": "красивый (вар. 22)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 229,
+    "fields": {
+      "german": "die Stadt22",
+      "russian": "город (вар. 22)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 230,
+    "fields": {
+      "german": "fahren22",
+      "russian": "ехать (вар. 22)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 22.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 231,
+    "fields": {
+      "german": "der Tisch23",
+      "russian": "стол (вар. 23)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 232,
+    "fields": {
+      "german": "die Sonne23",
+      "russian": "солнце (вар. 23)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 233,
+    "fields": {
+      "german": "laufen23",
+      "russian": "бегать (вар. 23)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 234,
+    "fields": {
+      "german": "schnell23",
+      "russian": "быстрый (вар. 23)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 235,
+    "fields": {
+      "german": "arbeiten23",
+      "russian": "работать (вар. 23)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 236,
+    "fields": {
+      "german": "das Buch23",
+      "russian": "книга (вар. 23)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 237,
+    "fields": {
+      "german": "lesen23",
+      "russian": "читать (вар. 23)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 238,
+    "fields": {
+      "german": "schön23",
+      "russian": "красивый (вар. 23)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 239,
+    "fields": {
+      "german": "die Stadt23",
+      "russian": "город (вар. 23)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 240,
+    "fields": {
+      "german": "fahren23",
+      "russian": "ехать (вар. 23)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 23.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 241,
+    "fields": {
+      "german": "der Tisch24",
+      "russian": "стол (вар. 24)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 242,
+    "fields": {
+      "german": "die Sonne24",
+      "russian": "солнце (вар. 24)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 243,
+    "fields": {
+      "german": "laufen24",
+      "russian": "бегать (вар. 24)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 244,
+    "fields": {
+      "german": "schnell24",
+      "russian": "быстрый (вар. 24)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 245,
+    "fields": {
+      "german": "arbeiten24",
+      "russian": "работать (вар. 24)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 246,
+    "fields": {
+      "german": "das Buch24",
+      "russian": "книга (вар. 24)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 247,
+    "fields": {
+      "german": "lesen24",
+      "russian": "читать (вар. 24)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 248,
+    "fields": {
+      "german": "schön24",
+      "russian": "красивый (вар. 24)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 249,
+    "fields": {
+      "german": "die Stadt24",
+      "russian": "город (вар. 24)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 250,
+    "fields": {
+      "german": "fahren24",
+      "russian": "ехать (вар. 24)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 24.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 251,
+    "fields": {
+      "german": "der Tisch25",
+      "russian": "стол (вар. 25)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 252,
+    "fields": {
+      "german": "die Sonne25",
+      "russian": "солнце (вар. 25)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 253,
+    "fields": {
+      "german": "laufen25",
+      "russian": "бегать (вар. 25)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 254,
+    "fields": {
+      "german": "schnell25",
+      "russian": "быстрый (вар. 25)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 255,
+    "fields": {
+      "german": "arbeiten25",
+      "russian": "работать (вар. 25)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 256,
+    "fields": {
+      "german": "das Buch25",
+      "russian": "книга (вар. 25)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 257,
+    "fields": {
+      "german": "lesen25",
+      "russian": "читать (вар. 25)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 258,
+    "fields": {
+      "german": "schön25",
+      "russian": "красивый (вар. 25)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 259,
+    "fields": {
+      "german": "die Stadt25",
+      "russian": "город (вар. 25)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 260,
+    "fields": {
+      "german": "fahren25",
+      "russian": "ехать (вар. 25)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 25.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 261,
+    "fields": {
+      "german": "der Tisch26",
+      "russian": "стол (вар. 26)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 262,
+    "fields": {
+      "german": "die Sonne26",
+      "russian": "солнце (вар. 26)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 263,
+    "fields": {
+      "german": "laufen26",
+      "russian": "бегать (вар. 26)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 264,
+    "fields": {
+      "german": "schnell26",
+      "russian": "быстрый (вар. 26)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 265,
+    "fields": {
+      "german": "arbeiten26",
+      "russian": "работать (вар. 26)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 266,
+    "fields": {
+      "german": "das Buch26",
+      "russian": "книга (вар. 26)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 267,
+    "fields": {
+      "german": "lesen26",
+      "russian": "читать (вар. 26)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 268,
+    "fields": {
+      "german": "schön26",
+      "russian": "красивый (вар. 26)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 269,
+    "fields": {
+      "german": "die Stadt26",
+      "russian": "город (вар. 26)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 270,
+    "fields": {
+      "german": "fahren26",
+      "russian": "ехать (вар. 26)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 26.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 271,
+    "fields": {
+      "german": "der Tisch27",
+      "russian": "стол (вар. 27)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 272,
+    "fields": {
+      "german": "die Sonne27",
+      "russian": "солнце (вар. 27)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 273,
+    "fields": {
+      "german": "laufen27",
+      "russian": "бегать (вар. 27)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 274,
+    "fields": {
+      "german": "schnell27",
+      "russian": "быстрый (вар. 27)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 275,
+    "fields": {
+      "german": "arbeiten27",
+      "russian": "работать (вар. 27)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 276,
+    "fields": {
+      "german": "das Buch27",
+      "russian": "книга (вар. 27)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 277,
+    "fields": {
+      "german": "lesen27",
+      "russian": "читать (вар. 27)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 278,
+    "fields": {
+      "german": "schön27",
+      "russian": "красивый (вар. 27)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 279,
+    "fields": {
+      "german": "die Stadt27",
+      "russian": "город (вар. 27)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 280,
+    "fields": {
+      "german": "fahren27",
+      "russian": "ехать (вар. 27)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 27.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 281,
+    "fields": {
+      "german": "der Tisch28",
+      "russian": "стол (вар. 28)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 282,
+    "fields": {
+      "german": "die Sonne28",
+      "russian": "солнце (вар. 28)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 283,
+    "fields": {
+      "german": "laufen28",
+      "russian": "бегать (вар. 28)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 284,
+    "fields": {
+      "german": "schnell28",
+      "russian": "быстрый (вар. 28)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 285,
+    "fields": {
+      "german": "arbeiten28",
+      "russian": "работать (вар. 28)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 286,
+    "fields": {
+      "german": "das Buch28",
+      "russian": "книга (вар. 28)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 287,
+    "fields": {
+      "german": "lesen28",
+      "russian": "читать (вар. 28)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 288,
+    "fields": {
+      "german": "schön28",
+      "russian": "красивый (вар. 28)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 289,
+    "fields": {
+      "german": "die Stadt28",
+      "russian": "город (вар. 28)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 290,
+    "fields": {
+      "german": "fahren28",
+      "russian": "ехать (вар. 28)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 28.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 291,
+    "fields": {
+      "german": "der Tisch29",
+      "russian": "стол (вар. 29)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 292,
+    "fields": {
+      "german": "die Sonne29",
+      "russian": "солнце (вар. 29)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 293,
+    "fields": {
+      "german": "laufen29",
+      "russian": "бегать (вар. 29)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 294,
+    "fields": {
+      "german": "schnell29",
+      "russian": "быстрый (вар. 29)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 295,
+    "fields": {
+      "german": "arbeiten29",
+      "russian": "работать (вар. 29)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 296,
+    "fields": {
+      "german": "das Buch29",
+      "russian": "книга (вар. 29)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 297,
+    "fields": {
+      "german": "lesen29",
+      "russian": "читать (вар. 29)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 298,
+    "fields": {
+      "german": "schön29",
+      "russian": "красивый (вар. 29)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 299,
+    "fields": {
+      "german": "die Stadt29",
+      "russian": "город (вар. 29)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 300,
+    "fields": {
+      "german": "fahren29",
+      "russian": "ехать (вар. 29)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 29.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 301,
+    "fields": {
+      "german": "der Tisch30",
+      "russian": "стол (вар. 30)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 302,
+    "fields": {
+      "german": "die Sonne30",
+      "russian": "солнце (вар. 30)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 303,
+    "fields": {
+      "german": "laufen30",
+      "russian": "бегать (вар. 30)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 304,
+    "fields": {
+      "german": "schnell30",
+      "russian": "быстрый (вар. 30)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 305,
+    "fields": {
+      "german": "arbeiten30",
+      "russian": "работать (вар. 30)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 306,
+    "fields": {
+      "german": "das Buch30",
+      "russian": "книга (вар. 30)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 307,
+    "fields": {
+      "german": "lesen30",
+      "russian": "читать (вар. 30)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 308,
+    "fields": {
+      "german": "schön30",
+      "russian": "красивый (вар. 30)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 309,
+    "fields": {
+      "german": "die Stadt30",
+      "russian": "город (вар. 30)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 310,
+    "fields": {
+      "german": "fahren30",
+      "russian": "ехать (вар. 30)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 30.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 311,
+    "fields": {
+      "german": "der Tisch31",
+      "russian": "стол (вар. 31)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 312,
+    "fields": {
+      "german": "die Sonne31",
+      "russian": "солнце (вар. 31)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 313,
+    "fields": {
+      "german": "laufen31",
+      "russian": "бегать (вар. 31)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 314,
+    "fields": {
+      "german": "schnell31",
+      "russian": "быстрый (вар. 31)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 315,
+    "fields": {
+      "german": "arbeiten31",
+      "russian": "работать (вар. 31)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 316,
+    "fields": {
+      "german": "das Buch31",
+      "russian": "книга (вар. 31)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 317,
+    "fields": {
+      "german": "lesen31",
+      "russian": "читать (вар. 31)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 318,
+    "fields": {
+      "german": "schön31",
+      "russian": "красивый (вар. 31)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 319,
+    "fields": {
+      "german": "die Stadt31",
+      "russian": "город (вар. 31)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 320,
+    "fields": {
+      "german": "fahren31",
+      "russian": "ехать (вар. 31)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 31.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 321,
+    "fields": {
+      "german": "der Tisch32",
+      "russian": "стол (вар. 32)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 322,
+    "fields": {
+      "german": "die Sonne32",
+      "russian": "солнце (вар. 32)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 323,
+    "fields": {
+      "german": "laufen32",
+      "russian": "бегать (вар. 32)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 324,
+    "fields": {
+      "german": "schnell32",
+      "russian": "быстрый (вар. 32)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 325,
+    "fields": {
+      "german": "arbeiten32",
+      "russian": "работать (вар. 32)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 326,
+    "fields": {
+      "german": "das Buch32",
+      "russian": "книга (вар. 32)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 327,
+    "fields": {
+      "german": "lesen32",
+      "russian": "читать (вар. 32)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 328,
+    "fields": {
+      "german": "schön32",
+      "russian": "красивый (вар. 32)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 329,
+    "fields": {
+      "german": "die Stadt32",
+      "russian": "город (вар. 32)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 330,
+    "fields": {
+      "german": "fahren32",
+      "russian": "ехать (вар. 32)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 32.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 331,
+    "fields": {
+      "german": "der Tisch33",
+      "russian": "стол (вар. 33)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 332,
+    "fields": {
+      "german": "die Sonne33",
+      "russian": "солнце (вар. 33)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 333,
+    "fields": {
+      "german": "laufen33",
+      "russian": "бегать (вар. 33)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 334,
+    "fields": {
+      "german": "schnell33",
+      "russian": "быстрый (вар. 33)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 335,
+    "fields": {
+      "german": "arbeiten33",
+      "russian": "работать (вар. 33)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 336,
+    "fields": {
+      "german": "das Buch33",
+      "russian": "книга (вар. 33)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 337,
+    "fields": {
+      "german": "lesen33",
+      "russian": "читать (вар. 33)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 338,
+    "fields": {
+      "german": "schön33",
+      "russian": "красивый (вар. 33)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 339,
+    "fields": {
+      "german": "die Stadt33",
+      "russian": "город (вар. 33)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 340,
+    "fields": {
+      "german": "fahren33",
+      "russian": "ехать (вар. 33)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 33.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 341,
+    "fields": {
+      "german": "der Tisch34",
+      "russian": "стол (вар. 34)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 342,
+    "fields": {
+      "german": "die Sonne34",
+      "russian": "солнце (вар. 34)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 343,
+    "fields": {
+      "german": "laufen34",
+      "russian": "бегать (вар. 34)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 344,
+    "fields": {
+      "german": "schnell34",
+      "russian": "быстрый (вар. 34)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 345,
+    "fields": {
+      "german": "arbeiten34",
+      "russian": "работать (вар. 34)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 346,
+    "fields": {
+      "german": "das Buch34",
+      "russian": "книга (вар. 34)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 347,
+    "fields": {
+      "german": "lesen34",
+      "russian": "читать (вар. 34)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 348,
+    "fields": {
+      "german": "schön34",
+      "russian": "красивый (вар. 34)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 349,
+    "fields": {
+      "german": "die Stadt34",
+      "russian": "город (вар. 34)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 350,
+    "fields": {
+      "german": "fahren34",
+      "russian": "ехать (вар. 34)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 34.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 351,
+    "fields": {
+      "german": "der Tisch35",
+      "russian": "стол (вар. 35)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 352,
+    "fields": {
+      "german": "die Sonne35",
+      "russian": "солнце (вар. 35)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 353,
+    "fields": {
+      "german": "laufen35",
+      "russian": "бегать (вар. 35)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 354,
+    "fields": {
+      "german": "schnell35",
+      "russian": "быстрый (вар. 35)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 355,
+    "fields": {
+      "german": "arbeiten35",
+      "russian": "работать (вар. 35)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 356,
+    "fields": {
+      "german": "das Buch35",
+      "russian": "книга (вар. 35)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 357,
+    "fields": {
+      "german": "lesen35",
+      "russian": "читать (вар. 35)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 358,
+    "fields": {
+      "german": "schön35",
+      "russian": "красивый (вар. 35)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 359,
+    "fields": {
+      "german": "die Stadt35",
+      "russian": "город (вар. 35)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 360,
+    "fields": {
+      "german": "fahren35",
+      "russian": "ехать (вар. 35)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 35.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 361,
+    "fields": {
+      "german": "der Tisch36",
+      "russian": "стол (вар. 36)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 362,
+    "fields": {
+      "german": "die Sonne36",
+      "russian": "солнце (вар. 36)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 363,
+    "fields": {
+      "german": "laufen36",
+      "russian": "бегать (вар. 36)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 364,
+    "fields": {
+      "german": "schnell36",
+      "russian": "быстрый (вар. 36)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 365,
+    "fields": {
+      "german": "arbeiten36",
+      "russian": "работать (вар. 36)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 366,
+    "fields": {
+      "german": "das Buch36",
+      "russian": "книга (вар. 36)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 367,
+    "fields": {
+      "german": "lesen36",
+      "russian": "читать (вар. 36)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 368,
+    "fields": {
+      "german": "schön36",
+      "russian": "красивый (вар. 36)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 369,
+    "fields": {
+      "german": "die Stadt36",
+      "russian": "город (вар. 36)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 370,
+    "fields": {
+      "german": "fahren36",
+      "russian": "ехать (вар. 36)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 36.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 371,
+    "fields": {
+      "german": "der Tisch37",
+      "russian": "стол (вар. 37)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 372,
+    "fields": {
+      "german": "die Sonne37",
+      "russian": "солнце (вар. 37)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 373,
+    "fields": {
+      "german": "laufen37",
+      "russian": "бегать (вар. 37)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 374,
+    "fields": {
+      "german": "schnell37",
+      "russian": "быстрый (вар. 37)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 375,
+    "fields": {
+      "german": "arbeiten37",
+      "russian": "работать (вар. 37)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 376,
+    "fields": {
+      "german": "das Buch37",
+      "russian": "книга (вар. 37)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 377,
+    "fields": {
+      "german": "lesen37",
+      "russian": "читать (вар. 37)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 378,
+    "fields": {
+      "german": "schön37",
+      "russian": "красивый (вар. 37)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 379,
+    "fields": {
+      "german": "die Stadt37",
+      "russian": "город (вар. 37)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 380,
+    "fields": {
+      "german": "fahren37",
+      "russian": "ехать (вар. 37)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 37.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 381,
+    "fields": {
+      "german": "der Tisch38",
+      "russian": "стол (вар. 38)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 382,
+    "fields": {
+      "german": "die Sonne38",
+      "russian": "солнце (вар. 38)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 383,
+    "fields": {
+      "german": "laufen38",
+      "russian": "бегать (вар. 38)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 384,
+    "fields": {
+      "german": "schnell38",
+      "russian": "быстрый (вар. 38)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 385,
+    "fields": {
+      "german": "arbeiten38",
+      "russian": "работать (вар. 38)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 386,
+    "fields": {
+      "german": "das Buch38",
+      "russian": "книга (вар. 38)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 387,
+    "fields": {
+      "german": "lesen38",
+      "russian": "читать (вар. 38)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 388,
+    "fields": {
+      "german": "schön38",
+      "russian": "красивый (вар. 38)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 389,
+    "fields": {
+      "german": "die Stadt38",
+      "russian": "город (вар. 38)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 390,
+    "fields": {
+      "german": "fahren38",
+      "russian": "ехать (вар. 38)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 38.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 391,
+    "fields": {
+      "german": "der Tisch39",
+      "russian": "стол (вар. 39)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 392,
+    "fields": {
+      "german": "die Sonne39",
+      "russian": "солнце (вар. 39)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 393,
+    "fields": {
+      "german": "laufen39",
+      "russian": "бегать (вар. 39)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 394,
+    "fields": {
+      "german": "schnell39",
+      "russian": "быстрый (вар. 39)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 395,
+    "fields": {
+      "german": "arbeiten39",
+      "russian": "работать (вар. 39)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 396,
+    "fields": {
+      "german": "das Buch39",
+      "russian": "книга (вар. 39)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 397,
+    "fields": {
+      "german": "lesen39",
+      "russian": "читать (вар. 39)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 398,
+    "fields": {
+      "german": "schön39",
+      "russian": "красивый (вар. 39)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 399,
+    "fields": {
+      "german": "die Stadt39",
+      "russian": "город (вар. 39)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 400,
+    "fields": {
+      "german": "fahren39",
+      "russian": "ехать (вар. 39)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 39.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 401,
+    "fields": {
+      "german": "der Tisch40",
+      "russian": "стол (вар. 40)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 402,
+    "fields": {
+      "german": "die Sonne40",
+      "russian": "солнце (вар. 40)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 403,
+    "fields": {
+      "german": "laufen40",
+      "russian": "бегать (вар. 40)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 404,
+    "fields": {
+      "german": "schnell40",
+      "russian": "быстрый (вар. 40)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 405,
+    "fields": {
+      "german": "arbeiten40",
+      "russian": "работать (вар. 40)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 406,
+    "fields": {
+      "german": "das Buch40",
+      "russian": "книга (вар. 40)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 407,
+    "fields": {
+      "german": "lesen40",
+      "russian": "читать (вар. 40)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 408,
+    "fields": {
+      "german": "schön40",
+      "russian": "красивый (вар. 40)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 409,
+    "fields": {
+      "german": "die Stadt40",
+      "russian": "город (вар. 40)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 410,
+    "fields": {
+      "german": "fahren40",
+      "russian": "ехать (вар. 40)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 40.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 411,
+    "fields": {
+      "german": "der Tisch41",
+      "russian": "стол (вар. 41)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 412,
+    "fields": {
+      "german": "die Sonne41",
+      "russian": "солнце (вар. 41)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 413,
+    "fields": {
+      "german": "laufen41",
+      "russian": "бегать (вар. 41)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 414,
+    "fields": {
+      "german": "schnell41",
+      "russian": "быстрый (вар. 41)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 415,
+    "fields": {
+      "german": "arbeiten41",
+      "russian": "работать (вар. 41)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 416,
+    "fields": {
+      "german": "das Buch41",
+      "russian": "книга (вар. 41)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 417,
+    "fields": {
+      "german": "lesen41",
+      "russian": "читать (вар. 41)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 418,
+    "fields": {
+      "german": "schön41",
+      "russian": "красивый (вар. 41)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 419,
+    "fields": {
+      "german": "die Stadt41",
+      "russian": "город (вар. 41)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 420,
+    "fields": {
+      "german": "fahren41",
+      "russian": "ехать (вар. 41)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 41.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 421,
+    "fields": {
+      "german": "der Tisch42",
+      "russian": "стол (вар. 42)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 422,
+    "fields": {
+      "german": "die Sonne42",
+      "russian": "солнце (вар. 42)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 423,
+    "fields": {
+      "german": "laufen42",
+      "russian": "бегать (вар. 42)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 424,
+    "fields": {
+      "german": "schnell42",
+      "russian": "быстрый (вар. 42)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 425,
+    "fields": {
+      "german": "arbeiten42",
+      "russian": "работать (вар. 42)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 426,
+    "fields": {
+      "german": "das Buch42",
+      "russian": "книга (вар. 42)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 427,
+    "fields": {
+      "german": "lesen42",
+      "russian": "читать (вар. 42)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 428,
+    "fields": {
+      "german": "schön42",
+      "russian": "красивый (вар. 42)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 429,
+    "fields": {
+      "german": "die Stadt42",
+      "russian": "город (вар. 42)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 430,
+    "fields": {
+      "german": "fahren42",
+      "russian": "ехать (вар. 42)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 42.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 431,
+    "fields": {
+      "german": "der Tisch43",
+      "russian": "стол (вар. 43)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 432,
+    "fields": {
+      "german": "die Sonne43",
+      "russian": "солнце (вар. 43)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 433,
+    "fields": {
+      "german": "laufen43",
+      "russian": "бегать (вар. 43)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 434,
+    "fields": {
+      "german": "schnell43",
+      "russian": "быстрый (вар. 43)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 435,
+    "fields": {
+      "german": "arbeiten43",
+      "russian": "работать (вар. 43)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 436,
+    "fields": {
+      "german": "das Buch43",
+      "russian": "книга (вар. 43)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 437,
+    "fields": {
+      "german": "lesen43",
+      "russian": "читать (вар. 43)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 438,
+    "fields": {
+      "german": "schön43",
+      "russian": "красивый (вар. 43)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 439,
+    "fields": {
+      "german": "die Stadt43",
+      "russian": "город (вар. 43)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 440,
+    "fields": {
+      "german": "fahren43",
+      "russian": "ехать (вар. 43)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 43.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 441,
+    "fields": {
+      "german": "der Tisch44",
+      "russian": "стол (вар. 44)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 442,
+    "fields": {
+      "german": "die Sonne44",
+      "russian": "солнце (вар. 44)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 443,
+    "fields": {
+      "german": "laufen44",
+      "russian": "бегать (вар. 44)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 444,
+    "fields": {
+      "german": "schnell44",
+      "russian": "быстрый (вар. 44)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 445,
+    "fields": {
+      "german": "arbeiten44",
+      "russian": "работать (вар. 44)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 446,
+    "fields": {
+      "german": "das Buch44",
+      "russian": "книга (вар. 44)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 447,
+    "fields": {
+      "german": "lesen44",
+      "russian": "читать (вар. 44)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 448,
+    "fields": {
+      "german": "schön44",
+      "russian": "красивый (вар. 44)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 449,
+    "fields": {
+      "german": "die Stadt44",
+      "russian": "город (вар. 44)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 450,
+    "fields": {
+      "german": "fahren44",
+      "russian": "ехать (вар. 44)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 44.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 451,
+    "fields": {
+      "german": "der Tisch45",
+      "russian": "стол (вар. 45)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 452,
+    "fields": {
+      "german": "die Sonne45",
+      "russian": "солнце (вар. 45)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 453,
+    "fields": {
+      "german": "laufen45",
+      "russian": "бегать (вар. 45)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 454,
+    "fields": {
+      "german": "schnell45",
+      "russian": "быстрый (вар. 45)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 455,
+    "fields": {
+      "german": "arbeiten45",
+      "russian": "работать (вар. 45)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 456,
+    "fields": {
+      "german": "das Buch45",
+      "russian": "книга (вар. 45)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 457,
+    "fields": {
+      "german": "lesen45",
+      "russian": "читать (вар. 45)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 458,
+    "fields": {
+      "german": "schön45",
+      "russian": "красивый (вар. 45)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 459,
+    "fields": {
+      "german": "die Stadt45",
+      "russian": "город (вар. 45)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 460,
+    "fields": {
+      "german": "fahren45",
+      "russian": "ехать (вар. 45)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 45.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 461,
+    "fields": {
+      "german": "der Tisch46",
+      "russian": "стол (вар. 46)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 462,
+    "fields": {
+      "german": "die Sonne46",
+      "russian": "солнце (вар. 46)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 463,
+    "fields": {
+      "german": "laufen46",
+      "russian": "бегать (вар. 46)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 464,
+    "fields": {
+      "german": "schnell46",
+      "russian": "быстрый (вар. 46)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 465,
+    "fields": {
+      "german": "arbeiten46",
+      "russian": "работать (вар. 46)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 466,
+    "fields": {
+      "german": "das Buch46",
+      "russian": "книга (вар. 46)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 467,
+    "fields": {
+      "german": "lesen46",
+      "russian": "читать (вар. 46)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 468,
+    "fields": {
+      "german": "schön46",
+      "russian": "красивый (вар. 46)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 469,
+    "fields": {
+      "german": "die Stadt46",
+      "russian": "город (вар. 46)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 470,
+    "fields": {
+      "german": "fahren46",
+      "russian": "ехать (вар. 46)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 46.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 471,
+    "fields": {
+      "german": "der Tisch47",
+      "russian": "стол (вар. 47)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 472,
+    "fields": {
+      "german": "die Sonne47",
+      "russian": "солнце (вар. 47)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 473,
+    "fields": {
+      "german": "laufen47",
+      "russian": "бегать (вар. 47)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 474,
+    "fields": {
+      "german": "schnell47",
+      "russian": "быстрый (вар. 47)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 475,
+    "fields": {
+      "german": "arbeiten47",
+      "russian": "работать (вар. 47)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 476,
+    "fields": {
+      "german": "das Buch47",
+      "russian": "книга (вар. 47)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 477,
+    "fields": {
+      "german": "lesen47",
+      "russian": "читать (вар. 47)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 478,
+    "fields": {
+      "german": "schön47",
+      "russian": "красивый (вар. 47)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 479,
+    "fields": {
+      "german": "die Stadt47",
+      "russian": "город (вар. 47)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 480,
+    "fields": {
+      "german": "fahren47",
+      "russian": "ехать (вар. 47)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 47.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 481,
+    "fields": {
+      "german": "der Tisch48",
+      "russian": "стол (вар. 48)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 482,
+    "fields": {
+      "german": "die Sonne48",
+      "russian": "солнце (вар. 48)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 483,
+    "fields": {
+      "german": "laufen48",
+      "russian": "бегать (вар. 48)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 484,
+    "fields": {
+      "german": "schnell48",
+      "russian": "быстрый (вар. 48)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 485,
+    "fields": {
+      "german": "arbeiten48",
+      "russian": "работать (вар. 48)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 486,
+    "fields": {
+      "german": "das Buch48",
+      "russian": "книга (вар. 48)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 487,
+    "fields": {
+      "german": "lesen48",
+      "russian": "читать (вар. 48)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 488,
+    "fields": {
+      "german": "schön48",
+      "russian": "красивый (вар. 48)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 489,
+    "fields": {
+      "german": "die Stadt48",
+      "russian": "город (вар. 48)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 490,
+    "fields": {
+      "german": "fahren48",
+      "russian": "ехать (вар. 48)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 48.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 491,
+    "fields": {
+      "german": "der Tisch49",
+      "russian": "стол (вар. 49)",
+      "part_of_speech": "Substantiv",
+      "example": "Der Tisch ist groß – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 492,
+    "fields": {
+      "german": "die Sonne49",
+      "russian": "солнце (вар. 49)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Sonne scheint – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 493,
+    "fields": {
+      "german": "laufen49",
+      "russian": "бегать (вар. 49)",
+      "part_of_speech": "Verb",
+      "example": "Ich laufe schnell – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 494,
+    "fields": {
+      "german": "schnell49",
+      "russian": "быстрый (вар. 49)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Auto ist schnell – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 495,
+    "fields": {
+      "german": "arbeiten49",
+      "russian": "работать (вар. 49)",
+      "part_of_speech": "Verb",
+      "example": "Er arbeitet viel – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 496,
+    "fields": {
+      "german": "das Buch49",
+      "russian": "книга (вар. 49)",
+      "part_of_speech": "Substantiv",
+      "example": "Das Buch ist interessant – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 497,
+    "fields": {
+      "german": "lesen49",
+      "russian": "читать (вар. 49)",
+      "part_of_speech": "Verb",
+      "example": "Sie liest jeden Tag – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 498,
+    "fields": {
+      "german": "schön49",
+      "russian": "красивый (вар. 49)",
+      "part_of_speech": "Adjektiv",
+      "example": "Das Wetter ist schön – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 499,
+    "fields": {
+      "german": "die Stadt49",
+      "russian": "город (вар. 49)",
+      "part_of_speech": "Substantiv",
+      "example": "Die Stadt ist laut – вариант 49.",
+      "level": "A1"
+    }
+  },
+  {
+    "model": "language.word",
+    "pk": 500,
+    "fields": {
+      "german": "fahren49",
+      "russian": "ехать (вар. 49)",
+      "part_of_speech": "Verb",
+      "example": "Wir fahren nach Berlin – вариант 49.",
+      "level": "A1"
+    }
+  }
+]
